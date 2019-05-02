@@ -1,6 +1,6 @@
 coffee-and-code
 ==================
-.. image:: https://github.com/coffee-and-code-uk/coffee-and-code/blob/master/coffee-and-code-tiny.png?raw=true
+.. image:: https://github.com/UKHO/coffee-and-code/blob/master/coffee-and-code-tiny.png?raw=true
 
 A UKHO repo for resources, data links, project ideas, and code examples. 
 
