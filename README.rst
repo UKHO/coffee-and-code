@@ -1,4 +1,4 @@
-coffee-and-code
+UK Hydrographic Office
 ==================
 .. image:: https://github.com/UKHO/coffee-and-code/blob/master/coffee-and-code-tiny.png?raw=true
 
