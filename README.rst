@@ -27,7 +27,7 @@ Awesome
 Courses - Python Beginner
 -------------
 
-* |OK_ICON| `Coursera Learn to Program: The Fundamentals <https://www.coursera.org/learn/learn-to-program>`_ - free 7 week course, flexible deadlines,approx 4-8 hours/wk. Data Science strongly recommend this course and on completion you will recieve an O'Reilly Python Pocket Reference Book as a congratulations! The book Practical Programming is `here! <https://github.com/coffee-and-code-uk/coffee-and-code/blob/master/python-books/Practical%20Programming%20(2nd%20ED)%20an%20introduction%20to%20computer%20science%20using%20python%203.pdf>`_
+* |OK_ICON| `Coursera Learn to Program: The Fundamentals <https://www.coursera.org/learn/learn-to-program>`_ - free 7 week course, flexible deadlines,approx 4-8 hours/wk. Data Science strongly recommend this course and on completion you will recieve an O'Reilly Python Pocket Reference Book as a congratulations! 
 * |OK_ICON| `DataCamp Introduction to Python, interactive course <https://www.datacamp.com/courses/intro-to-python-for-data-science>`_ - an nice easily intro to Python in-browser (so no software required).
 * |OK_ICON| `Awesome Learn Data Science Resources <https://github.com/siboehm/awesome-learn-datascience#readme>`_ - from Awesome: a list of data science resources in Python. 
 
