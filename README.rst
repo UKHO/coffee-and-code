@@ -1,14 +1,10 @@
-coffee-and-code
-==================
+.. image:: https://github.com/UKHO/coffee-and-code/blob/master/coffee-and-code-tiny.png?raw=true
+
 **The aim of Coffee & Code meetups is to nurture, enable and encourage a vibrant, supportive and inclusive coding community at UK Hydrographic Office. Coffee & Code provides a regular opportunity for people within UK Hydrographic Office who are interested in coding to share skills and knowledge, provide advice and guidance to each other and generally network and get to know each other.**
 
 Coffee and Code is on a Wednesday 9am to 10am in the Atrium. The format is simply to drop-in into the session. Below is an awesome list of resources, data links, projects ideas and code examples: 
 
 Remember to bring your coffee - it's free in our kitchens! 
-
-.. image:: https://github.com/UKHO/coffee-and-code/blob/master/coffee-and-code-tiny.png?raw=true
-
-
 .. |OK_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png
 .. |FIXME_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png
 
