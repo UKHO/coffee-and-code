@@ -43,21 +43,12 @@ Data
 
 * |OK_ICON| `Awesome Public Datasets <https://github.com/awesomedata/awesome-public-datasets>`_
 
-Data Science Community/Practice at the UKHO
-------------
-
-* |OK_ICON| `Data Science Community Wiki on UKHO Sharepoint <https://ukho.sharepoint.com/sites/Technology/DS/SitePages/Data%20Science%20Community%20Wiki.aspx>`_
-* |OK_ICON| `Data Science Community Yammer <https://www.yammer.com/ukho.gov.uk/#/threads/inGroup?type=in_group&feedId=12542971&view=all>`_
 
 Git and GitHub
 ---------------
 * |OK_ICON| `GitHub guides <https://guides.github.com/>`_ - Try the 'hello world' guide to get started.
 * |OK_ICON| `Blog on Toward Data Science: Getting started with Git and GitHub: the complete beginner’s guide <https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6>`_ - 19 minute read on setting up Git and GitHub.
 
-Guild - Python at UKHO
----------------
-
-* |OK_ICON| `UKHO python Guild Yammer <https://www.yammer.com/ukho.gov.uk/#/threads/inGroup?type=in_group&feedId=14030679&view=all>`_ - a place to discuss all things Pythonic, such as programming, testing, problems, tips and tricks, etc.
 
 Image Processing
 -----------------
