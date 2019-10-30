@@ -10,9 +10,6 @@ Remember to bring your coffee - it's free in our kitchens!
 .. |OK_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png
 .. |FIXME_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png
 
-If a link is broken please update the icon or add an issue so the link can be amended. 
-If you would like to add a new link or category feel free, or add an issue. 
-And if you have ideas about ways to improve coffee and code for you add an issue. 
 
 * |OK_ICON| I am well.
 * |FIXME_ICON| Please fix me.
