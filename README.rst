@@ -2,12 +2,18 @@ coffee-and-code
 ==================
 .. image:: https://github.com/UKHO/coffee-and-code/blob/master/coffee-and-code-tiny.png?raw=true
 
-A UKHO repo for resources, data links, project ideas, and code examples. 
+**The aim of the Coffee & Code meetups is to nurture, enable and encourage a vibrant, supportive and inclusive coding community at UKHO. Coffee & Code provides a regular opportunity for people within UKHO who are interested in coding to share skills and knowledge, provide advice and guidance to each other and generally network and get to know each other.**
+
+See the Awesome list below for resources, data links, project ideas, and code examples. 
 
 .. |OK_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png
 .. |FIXME_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png
 
-If a link is broken please update the icon or add an issue so the link can be amended. Thanks!
+If a link is broken please update the icon or add an issue so the link can be amended. 
+You can also add new links or issues if you would like to share a resource with the community.
+And share your ideas for Coffee and Code in the issues section!
+
+Thanks!
 
 * |OK_ICON| I am well.
 * |FIXME_ICON| Please fix me.
