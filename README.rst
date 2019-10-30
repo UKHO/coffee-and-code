@@ -7,7 +7,7 @@ A UKHO repo for resources, data links, project ideas, and code examples.
 .. |OK_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png
 .. |FIXME_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png
 
-If a link is broken please update the icon or add an issue so the link can be amended. Thanks!
+If a link is broken please update the icon or add an issue so the link can be amended. Thanks!!
 
 * |OK_ICON| I am well.
 * |FIXME_ICON| Please fix me.
