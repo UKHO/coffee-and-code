@@ -4,6 +4,10 @@ UK Hydrographic Office
 
 **The aim of the Coffee & Code meetups is to nurture, enable and encourage a vibrant, supportive and inclusive coding community at UKHO. Coffee & Code provides a regular opportunity for people within UKHO who are interested in coding to share skills and knowledge, provide advice and guidance to each other and generally network and get to know each other.**
 
+This aim aligns the UK Hydrographic Office's Coffee and Code event with all UK Government Coffee and Coding events `HERE <https://ukgovdatascience.github.io/rap-website/resource-coffee-and-coding.html>`_
+
+The UK Hydrographic Office run a weekly Coffee and Code event every Wednesday between 9-10am in the Atrium. We provide code surgery, discovery/workshop sessions as an opportunity for people to pose and share any coding related queries/ruminations/ideas to the gathered coding community.
+
 See the Awesome list below for resources, data links, project ideas, and code examples. 
 
 .. |OK_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png
@@ -47,7 +51,6 @@ Data
 Git and GitHub
 ---------------
 * |OK_ICON| `GitHub guides <https://guides.github.com/>`_ - Try the 'hello world' guide to get started.
-* |OK_ICON| `Blog on Toward Data Science: Getting started with Git and GitHub: the complete beginner’s guide <https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6>`_ - 19 minute read on setting up Git and GitHub.
 
 
 Image Processing
