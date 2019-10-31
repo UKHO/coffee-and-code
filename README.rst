@@ -51,7 +51,6 @@ Data
 Git and GitHub
 ---------------
 * |OK_ICON| `GitHub guides <https://guides.github.com/>`_ - Try the 'hello world' guide to get started.
-* |OK_ICON| `Blog on Toward Data Science: Getting started with Git and GitHub: the complete beginner’s guide <https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6>`_ - 19 minute read on setting up Git and GitHub.
 
 
 Image Processing
