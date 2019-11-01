@@ -22,15 +22,15 @@ Thanks!
 
 **Table of Contents**
 * [Awesome](#awesome)
-* [Courses - Python Beginner](#courses%20-%20python%20beginner)
-* [Courses - Python Intermediate](#courses%20-%20python%20intermediate)
+* [Courses - Python Beginner](#courses---python-beginner)
+* [Courses - Python Intermediate](#courses---python-intermediate)
 * [Data](#data)
-* [Git and GitHub](#git%20and%20github)
-* [Image Processing](#image%20processing)
+* [Git and GitHub](#git-and-github)
+* [Image Processing](#image-processing)
 * [Math](#math)
 * [JavaScript](#javascript)
-* [Remote Sensing](#remote%20sensing)
-* [UK Gov Sites](#uk%20%20gov%20sites)
+* [Remote Sensing](#remote-sensing)
+* [UK Gov Sites](#uk--gov-sites)
 
 
 # Awesome
