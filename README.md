@@ -64,7 +64,7 @@ Thanks!
 
 # Image Processing
 -----------------
-* :blush: [here ](https://github.com/scikit-image/skimage-tutorials)
+* :blush: [Scikit-image and Scipy image procesing](https://www.youtube.com/watch?v=pZATswy_IsQ) - introducing convolution, filtering, segmentation to imagery. The GitHub repo is [here](https://github.com/scikit-image/skimage-tutorials)
 
 
 # Math
