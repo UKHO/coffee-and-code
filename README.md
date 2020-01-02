@@ -37,6 +37,12 @@ Thanks!
 -------------
 * :blush: [Awesome lists about all kinds of interesting topics ](https://github.com/sindresorhus/awesome) - a list of lists; GitHub collaboration of awesome lists. 
 
+
+# Coding
+-------------
+* :blush: [Codewars](https://www.codewars.com/) - exercises in many programming languages. Submit a working solution and level up! Join the UKHO clan to be part of the UKHO leaderboard
+
+
 # Courses - Python Beginner
 -------------
 
@@ -60,6 +66,7 @@ Thanks!
 # Git and GitHub
 ---------------
 * :blush: [GitHub guides ](https://guides.github.com/) - Try the 'hello world' guide to get started.
+* :blush: [Learn Git Branching](https://learngitbranching.js.org/) - awesome interactive Git exercises
 
 
 # Image Processing
@@ -81,6 +88,12 @@ Thanks!
 ------------
 
 * :blush: [Google Earth Engine ](https://earthengine.google.com/) - Python and JavaScript API for Earth science data and analysis.
+
+
+# Testing
+------------
+* :blush: [Test Automation University](https://testautomationu.applitools.com/) - Free courses on testing in many different languages. Also has introductory courses on some programming languages
+
 
 # UK Gov sites
 ------------
