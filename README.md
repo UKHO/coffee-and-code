@@ -22,6 +22,7 @@ Thanks!
 
 **Table of Contents**
 * [Awesome](#awesome)
+* [Coding](#coding)
 * [Courses - Python Beginner](#courses---python-beginner)
 * [Courses - Python Intermediate](#courses---python-intermediate)
 * [Data](#data)
@@ -41,7 +42,7 @@ Thanks!
 # Coding
 -------------
 * :blush: [Codewars](https://www.codewars.com/) - exercises in many programming languages. Submit a working solution and level up! Join the UKHO clan to be part of the UKHO leaderboard
-
+* :blush: [JetBrains Academy](https://www.jetbrains.com/academy/) - learn to program by creating working applications. This is a paid for service but there is a free trial and the "beta" tracks are also free.
 
 # Courses - Python Beginner
 -------------
