@@ -5,7 +5,7 @@
 
 **The aim of the Coffee & Code meetups is to nurture, enable and encourage a vibrant, supportive and inclusive coding community at UKHO. Coffee & Code provides a regular opportunity for people within UKHO who are interested in coding to share skills and knowledge, provide advice and guidance to each other and generally network and get to know each other.**
 
-This aim aligns the UK Hydrographic Office's Coffee and Code event with all UK Government Coffee and Coding events [HERE](https://ukgovdatascience.github.io/rap-website/resource-coffee-and-coding.html)
+This aim aligns the UK Hydrographic Office's Coffee and Code event with all UK Government Coffee and Coding events [HERE](https://docs.google.com/spreadsheets/d/13HstI9VZViUr3jxTQPMMK-gctkVeyig-7HDhN4fU1_E/edit#gid=0)
 
 The UK Hydrographic Office run a weekly Coffee and Code event every Wednesday between 9-10am in the Atrium. We provide code surgery, discovery/workshop sessions as an opportunity for people to pose and share any coding related queries/ruminations/ideas to the gathered coding community.
 
