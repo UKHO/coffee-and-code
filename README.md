@@ -39,10 +39,17 @@ Thanks!
 * :blush: [Awesome lists about all kinds of interesting topics ](https://github.com/sindresorhus/awesome) - a list of lists; GitHub collaboration of awesome lists. 
 
 
-# Coding
+# Coding - Learn and Challenge Yourself
 -------------
 * :blush: [Codewars](https://www.codewars.com/) - exercises in many programming languages. Submit a working solution and level up! Join the UKHO clan to be part of the UKHO leaderboard
 * :blush: [JetBrains Academy](https://www.jetbrains.com/academy/) - learn to program by creating working applications. This is a paid for service but there is a free trial and the "beta" tracks are also free.
+* :blush: [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) - Allows you to write and execute Python in your browser.
+* :blush: [Exercism](https://exercism.io/) - Access code practice and mentorship for free in 52 different languages.
+* :blush: [Advent of Code](https://adventofcode.com/) - Challenge yourself to 25 days of coding puzzles. You can go back to any of the six years and try them out - no need to wait until December!
+* :blush: [CodeKata](http://codekata.com/) - Short coding challenges to improve your skills.
+* :blush: [Python Playground](https://www.katacoda.com/courses/python/playground) - Allows you to write and execute Python in your browser.
+* :blush: [RealPython](https://realpython.com/) - Tutorial, courses, quizzes and many more learning tools to help imporve your Python.
+* :blush: [CodeGolf](https://codegolf.stackexchange.com/) - For the more advanced, try these coding competitions.
 
 # Courses - Python Beginner
 -------------
@@ -96,6 +103,8 @@ Thanks!
 ------------
 * :blush: [Test Automation University](https://testautomationu.applitools.com/) - Free courses on testing in many different languages. Also has introductory courses on some programming languages
 
+# Cheat Sheets
+* :blush: [Jupyter Notebooks](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf) 
 
 # UK Gov sites
 ------------
