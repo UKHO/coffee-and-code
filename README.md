@@ -7,7 +7,7 @@
 
 This aim aligns the UK Hydrographic Office's Coffee and Code event with all UK Government Coffee and Coding events [HERE](https://docs.google.com/spreadsheets/d/13HstI9VZViUr3jxTQPMMK-gctkVeyig-7HDhN4fU1_E/edit#gid=0)
 
-The UK Hydrographic Office run a weekly Coffee and Code event every Wednesday between 9-10am in the Atrium. We provide code surgery, discovery/workshop sessions as an opportunity for people to pose and share any coding related queries/ruminations/ideas to the gathered coding community.
+The UK Hydrographic Office run a weekly Coffee and Code event every Wednesday between 9-10am as a Teams meeting. We provide code surgery, discovery/workshop sessions as an opportunity for people to pose and share any coding related queries/ruminations/ideas to the gathered coding community. The invite for the meeting can be downloaded from https://ukho.sharepoint.com/sites/digitalhydro .
 
 See the Awesome list below for resources, data links, project ideas, and code examples. 
 
