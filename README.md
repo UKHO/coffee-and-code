@@ -58,6 +58,7 @@ Thanks!
 * :blush: [DataCamp Introduction to Python, interactive course ](https://www.datacamp.com/courses/intro-to-python-for-data-science) - an nice easily intro to Python in-browser (so no software required).
 * :blush: [Awesome Learn Data Science Resources ](https://github.com/siboehm/awesome-learn-datascience#readme) - from Awesome: a list of data science resources in Python. 
 * :blush: [One document to learn numerics, science, and data with Python](http://scipy-lectures.org/) - Python for science
+* :blush: [Free Code Camp](https://www.freecodecamp.org/) -  Thousands of videos, articles, and interactive coding lessons - all freely available to the public.
 
 # Courses - Python Intermediate
 --------------
