@@ -54,6 +54,7 @@ Thanks!
 # Courses - Python Beginner
 -------------
 
+* :blush: [Complete Python Bootcamp From Zero to Hero in Python ](https://www.udemy.com/course/complete-python-bootcamp/) - Learn Python like a Professional. Start from the basics and go all the way to creating your own applications and games. This is a paid for course but they often have sales on cutting the price to £10-£20. 
 * :blush: [Coursera Learn to Program: The Fundamentals ](https://www.coursera.org/learn/learn-to-program) - free 7 week course, flexible deadlines,approx 4-8 hours/wk. Data Science strongly recommend this course and on completion you will recieve an O'Reilly Python Pocket Reference Book as a congratulations! 
 * :blush: [DataCamp Introduction to Python, interactive course ](https://www.datacamp.com/courses/intro-to-python-for-data-science) - an nice easily intro to Python in-browser (so no software required).
 * :blush: [Awesome Learn Data Science Resources ](https://github.com/siboehm/awesome-learn-datascience#readme) - from Awesome: a list of data science resources in Python. 
