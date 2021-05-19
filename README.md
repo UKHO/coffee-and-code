@@ -85,10 +85,10 @@ Thanks!
 * :blush: [Scikit-image and Scipy image procesing](https://www.youtube.com/watch?v=pZATswy_IsQ) - introducing convolution, filtering, segmentation to imagery. The GitHub repo is [here](https://github.com/scikit-image/skimage-tutorials)
 
 
-# Math
+# Maths
 ------------
 * :blush: [Project Euler ](https://projecteuler.net/) - a series of challenging mathematical/computer programming problems
-* :blush: [Khan Academy ](https://www.khanacademy.org/) - offers practice exercises, instructional videos, and a personalized learning dashboard on math, computer programming and more. 
+* :blush: [Khan Academy ](https://www.khanacademy.org/) - offers practice exercises, instructional videos, and a personalized learning dashboard on maths, computer programming and more. 
 
 # JavaScript
 ------------
