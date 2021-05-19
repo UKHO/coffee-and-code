@@ -101,7 +101,7 @@ Thanks!
 
 # JavaScript
 ------------
-* :blush: [Our JavaScript Guide ](javascript-guide.md/) - a Javascript guide made and maintained by us.
+* :blush: [The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) - The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory.
 
 
 # Remote Sensing
