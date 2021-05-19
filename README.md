@@ -25,6 +25,7 @@ Thanks!
 * [Coding](#coding)
 * [Courses - Python Beginner](#courses---python-beginner)
 * [Courses - Python Intermediate](#courses---python-intermediate)
+* [Machine Learning](#machine-learning)
 * [Data](#data)
 * [Git and GitHub](#git-and-github)
 * [Image Processing](#image-processing)
@@ -60,6 +61,7 @@ Thanks!
 * :blush: [Awesome Learn Data Science Resources ](https://github.com/siboehm/awesome-learn-datascience#readme) - from Awesome: a list of data science resources in Python. 
 * :blush: [One document to learn numerics, science, and data with Python](http://scipy-lectures.org/) - Python for science
 * :blush: [Free Code Camp](https://www.freecodecamp.org/) -  Thousands of videos, articles, and interactive coding lessons - all freely available to the public.
+* 
 
 # Courses - Python Intermediate
 --------------
@@ -67,6 +69,13 @@ Thanks!
 * :blush: [Coursera Learn to Program: Crafting Quality Code ](https://www.coursera.org/learn/program-code) - free 5 week course, flexible deadlines, approx 6 hours/wk. 
 * :blush: [Kaggle Learn ](https://www.kaggle.com/learn/overview) - Try Pandas if you want some coding techniques for work with tabular(spreadsheets) data. 
 * :blush: [Fastai recommened Python learning resource ](https://forums.fast.ai/t/recommended-python-learning-resources/26888)
+
+
+# Machine Learning
+--------------
+
+* :blush: [Raschka Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
+
 
 # Data
 ------------
