@@ -70,6 +70,11 @@ Thanks!
 * :blush: [Kaggle Learn ](https://www.kaggle.com/learn/overview) - Try Pandas if you want some coding techniques for work with tabular(spreadsheets) data. 
 * :blush: [Fastai recommened Python learning resource ](https://forums.fast.ai/t/recommended-python-learning-resources/26888)
 
+# Courses - Python GIS
+--------------
+
+* :blush: [PennState: GIS Programming and Software Development](https://www.e-education.psu.edu/geog485/node/91) - focus on solving geographic problems by modifying and automating generic Geographic Information System (GIS) software through programming. 
+* :blush: [PennState: Advanced Python Programming for GIS](https://www.e-education.psu.edu/geog489/home.html) - learn advanced applications of Python for developing and customizing GIS software, designing user interfaces, and solving complex geoprocessing tasks.
 
 # Machine Learning
 --------------
