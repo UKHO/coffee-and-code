@@ -120,6 +120,7 @@ Thanks!
 * :blush: [Test Automation University](https://testautomationu.applitools.com/) - Free courses on testing in many different languages. Also has introductory courses on some programming languages
 
 # Cheat Sheets
+------------
 * :blush: [Jupyter Notebooks](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf) 
 
 # UK Gov sites
