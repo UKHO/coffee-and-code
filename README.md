@@ -127,3 +127,8 @@ Thanks!
 
 * :blush: [ONS Open Geography Portal ](https://geoportal.statistics.gov.uk/) - provides free and open access to the definitive source of geographic products, web applications, story maps, services and APIs. All content is available under the Open Government Licence v3.0.
 
+# FME
+------------
+
+* :blush: [FME Academy](https://community.safe.com/s/academy) - recommended training on all things FME
+
